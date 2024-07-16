@@ -1,0 +1,3 @@
+if isinstance(value, dict):
+    # Code to execute if the variable is a dictionary
+    ...
